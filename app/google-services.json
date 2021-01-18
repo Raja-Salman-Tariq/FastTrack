@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "873813351616",
+    "firebase_url": "https://fasttrack-b4fc9-default-rtdb.firebaseio.com",
+    "project_id": "fasttrack-b4fc9",
+    "storage_bucket": "fasttrack-b4fc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873813351616:android:f4b2c27bcf747b59ec2125",
+        "android_client_info": {
+          "package_name": "com.rajasalmantariq.fasttrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873813351616-ge64rdpr3jdfstojkq6pnr4okaecuimu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajasalmantariq.fasttrack",
+            "certificate_hash": "37820873279595d5ffb12a7aa4f01a5728c78f9e"
+          }
+        },
+        {
+          "client_id": "873813351616-gfgr8gi40kb9p3qjjnu94ekjsri9ua03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIPZqBKj-dXErPiOXc4fHRLs56NRd8kXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873813351616-gfgr8gi40kb9p3qjjnu94ekjsri9ua03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
